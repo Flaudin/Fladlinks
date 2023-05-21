@@ -15,4 +15,11 @@ module.exports = {
     },
   },
   plugins: [],
+  theme: {
+    colors:{
+      'primary': '#ffffff',
+      'headie': '111111',
+      'bodie': '151515'
+    }
+  }
 }
